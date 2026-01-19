@@ -1,3 +1,6 @@
 C/Users/bestx/Documents/ssh_key/upstage-network-chanjin.pem
 
 upstage-network-chanjin.pem
+
+# MySQL docker volume
+mysql_data/
